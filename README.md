@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naramikaze
 - 👀 I’m interested in all language programmings
-- 🌱 I’m currently learning htmml, css, javascript, pythom
+- 🌱 I’m currently learning html, css, javascript, pythom
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
